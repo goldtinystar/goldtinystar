@@ -23,8 +23,8 @@ const Main = () => {
     className='Main' id="mainy">
       <div className="main_left">
         <h3 className='it_is_me'>Hey! It's Me</h3>
-        <h2 className='names'>Vamsi Praneeth</h2>
-        <p className='i_am_a'>I am a&nbsp;<span class="typewriter"></span></p>
+        <h2 className='names'>Marven Ayong Acojedo</h2>
+        <p className='i_am_a'>I am a&nbsp;<span class="typewriter">Senior Software Engineer</span></p>
         
         <div className="flex1">
         <p className='follow_me'>follow me: </p>
