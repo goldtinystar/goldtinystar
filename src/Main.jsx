@@ -24,7 +24,7 @@ const Main = () => {
       <div className="main_left">
         <h3 className='it_is_me'>Hey! It's Me</h3>
         <h2 className='names'>Marven Ayong Acojedo</h2>
-        <p className='i_am_a'>I am a&nbsp;<span class="typewriter">Senior Software Engineer</span></p>
+        <p className='i_am_a'>I am a&nbsp;<span class="typewriter"></span></p>
         
         <div className="flex1">
         <p className='follow_me'>follow me: </p>
@@ -36,7 +36,7 @@ const Main = () => {
         </div>
         </div>
         <div className="flex1">
-        <a href="mailto:vamsipraneeth2004@gmail.com"><button className='buttonc'>E-Mail Me</button></a>
+        <a href="mailto:goldmarven888@gmail.com"><button className='buttonc'>E-Mail Me</button></a>
         <button onClick={() => window.open("https://drive.google.com/file/d/1D0MarEA_vK0HZWumDiLTwoMApKx4UkQT/view?usp=sharing", "_blank")} className='buttonb'>Resume</button>
         </div>
       </div>
