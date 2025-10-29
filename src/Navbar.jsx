@@ -1,6 +1,6 @@
 
 import './main.css';
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Link as ScrollLink } from 'react-scroll';
 
 
