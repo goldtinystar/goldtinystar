@@ -46,15 +46,15 @@ const ContactForm = () => {
               <FontAwesomeIcon icon={faPhone} />
               <span className="contact-text phone">
                 <a href="tel:7396425771" title="Give me a call">
-                  +91-7396425771
+                  +63 991 605 8436
                 </a>
               </span>
             </li>
             <li className="list-item">
               <FontAwesomeIcon icon={faEnvelope} />
               <span className="contact-text gmail">
-                <a href="mailto:vamsipraneeth2004@gmail.com" title="Send me an email">
-                  vamsipraneeth2004@gmail.com
+                <a href="mailto:goldmarven888@gmail.com" title="Send me an email">
+                  goldmarven888@gmail.com
                 </a>
               </span>
             </li>
