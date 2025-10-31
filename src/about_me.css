@@ -11,7 +11,8 @@
     font-size:20px;
     text-align: center;
     color:rgba(255, 255, 255, 0.8);
-    width:50%;
+    width:100%;
+    
 }
 .about_me_right{
     width:40%;
@@ -19,6 +20,8 @@
 .about_me_info{
     display:flex;
     justify-content: center;
+    width:80%;
+    margin-left: 20%;
 }
 .about_me{
     margin-top: 10%;

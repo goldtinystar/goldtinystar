@@ -17,17 +17,17 @@ const Skills = () => {
       <h3 className='heading2'>Languages</h3>
       <div className="contents">
         <div className="flex">
-          <SemiDonutChart percentage={70} fill="#03B0FD" txt="HTML"/>
-          <SemiDonutChart percentage={45} fill="#03B0FD" txt="CSS"/>
-          <SemiDonutChart percentage={50} fill="#03B0FD" txt="JavaScript"/>
+          <SemiDonutChart percentage={70} fill="#03B0FD" txt="Typescript"/>
+          <SemiDonutChart percentage={85} fill="#03B0FD" txt="JavaScript"/>
+          <SemiDonutChart percentage={60} fill="#03B0FD" txt="Golang"/>
         </div>
         <div className="flex">
-          <SemiDonutChart percentage={70} fill="#03B0FD" txt="React JS"/>
-          <SemiDonutChart percentage={70} fill="#03B0FD" txt="C"/>
-          <SemiDonutChart percentage={60} fill="#03B0FD" txt="C++"/>
+          <SemiDonutChart percentage={75} fill="#03B0FD" txt="Angular"/>
+          <SemiDonutChart percentage={65} fill="#03B0FD" txt="C++"/>
+          <SemiDonutChart percentage={60} fill="#03B0FD" txt="C#"/>
         </div>
         <div className="flex">
-          <SemiDonutChart percentage={65} fill="#03B0FD" txt="Python"/>
+          <SemiDonutChart percentage={75} fill="#03B0FD" txt="Python"/>
         </div>
       </div>
 

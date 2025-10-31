@@ -29,15 +29,15 @@ const Main = () => {
         <div className="flex1">
         <p className='follow_me'>follow me: </p>
         <div className="logos">
-        <a href="https://www.codechef.com/users/dark_knight31"><img src={codechef} alt="" /></a>
-        <a href="https://github.com/Praneeth2025" target="_blank" rel="noreferrer"><img src={github} alt=""  /></a>
-        <a href="https://www.linkedin.com/in/vamsi-praneeth-92458a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><img src={linked_in} alt=""></img></a>
-        <a href="https://leetcode.com/u/pG477o7BXM/" target="_blank" rel="noreferrer"><img src={leetcodes} alt=""></img></a>
+        {/* <a href="https://www.codechef.com/users/dark_knight31"><img src={codechef} alt="" /></a> */}
+        <a href="https://github.com/goldforever888" target="_blank" rel="noreferrer"><img src={github} alt=""  /></a>
+        <a href="https://www.linkedin.com/in/m-acojedo-010363388/" target="_blank" rel="noreferrer"><img src={linked_in} alt=""></img></a>
+        {/* <a href="https://leetcode.com/u/pG477o7BXM/" target="_blank" rel="noreferrer"><img src={leetcodes} alt=""></img></a> */}
         </div>
         </div>
         <div className="flex1">
         <a href="mailto:goldmarven888@gmail.com"><button className='buttonc'>E-Mail Me</button></a>
-        <button onClick={() => window.open("https://drive.google.com/file/d/1D0MarEA_vK0HZWumDiLTwoMApKx4UkQT/view?usp=sharing", "_blank")} className='buttonb'>Resume</button>
+        <button onClick={() => window.open("https://drive.google.com/file/d/1I6LM5glmo8FaGPEJKkfTxDK_3LBXT_bu/view?usp=drive_link", "_blank")} className='buttonb'>Resume</button>
         </div>
       </div>
       <div className="right_main">
