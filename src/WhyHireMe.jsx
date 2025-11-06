@@ -48,7 +48,7 @@ const WhyHireMe = () => {
                         <div className="box">
                             <img src={scholar} alt="" className='why_logo' />
                             <h4 className='mid_text'>2017</h4>
-                            <p className='main_text_why'>Nanyang Technical University</p>
+                            <p className='main_text_why'>National University of Singapore</p>
                         </div>
                         <div className="box">
                             <img src={project} alt="" className='why_logo' />
