@@ -30,7 +30,7 @@ const Main = () => {
         <p className='follow_me'>follow me: </p>
         <div className="logos">
         {/* <a href="https://www.codechef.com/users/dark_knight31"><img src={codechef} alt="" /></a> */}
-        <a href="https://github.com/goldforever888" target="_blank" rel="noreferrer"><img src={github} alt=""  /></a>
+        <a href="https://github.com/goldtinystar/" target="_blank" rel="noreferrer"><img src={github} alt=""  /></a>
         <a href="https://www.linkedin.com/in/m-acojedo-010363388/" target="_blank" rel="noreferrer"><img src={linked_in} alt=""></img></a>
         {/* <a href="https://leetcode.com/u/pG477o7BXM/" target="_blank" rel="noreferrer"><img src={leetcodes} alt=""></img></a> */}
         </div>
