@@ -1,4 +1,3 @@
-## Hi there 👋
 Seasoned Senior Software Engineer with 8+ years of experience developing full-stack, data-driven web applications across multiple industries.
 
 Expert in Angular, .NET Core, and TypeScript, specializing in creating responsive dashboards, enterprise tools, and API-driven interfaces.
